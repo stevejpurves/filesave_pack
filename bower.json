@@ -1,0 +1,23 @@
+{
+  "name": "filesave_pack",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stevejpurves/filesave_pack",
+  "authors": [
+    "Steve Purves <stevejpurves@gmail.com>"
+  ],
+  "description": "file saving utilities in one place for deployment",
+  "main": "export2excel.js",
+  "keywords": [
+    "filesaver",
+    "blob",
+    "xlsx"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
